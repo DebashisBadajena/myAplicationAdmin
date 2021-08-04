@@ -1,0 +1,2 @@
+rootProject.name = "Digital Library-Admin"
+include ':app'

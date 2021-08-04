@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071409441217",
+    "project_id": "digital-library-admin-ceab2",
+    "storage_bucket": "digital-library-admin-ceab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071409441217:android:3047bb786cfc0e6aac2740",
+        "android_client_info": {
+          "package_name": "com.example.digitallibrary_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071409441217-hlhpfjsdujp8b5g8jv0lu0ofu68512q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk6qw24K_tTkDeJ5lIBRysckoE8Ij-hPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071409441217-hlhpfjsdujp8b5g8jv0lu0ofu68512q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
